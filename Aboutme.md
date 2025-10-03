@@ -18,9 +18,9 @@ I wanted a simple space to:
 ---
 
 ## 📬 Get in Touch
-- [My GitHub Profile](https://github.com/Savithaponusamyblog)  
-- [LinkedIn](#www.linkedin.com/in/savitha-ponnusamy-3435491a1)  
-- [Email](#savitha.ponnusamy@outlook.com) 
+- [My GitHub Profile](https://github.com/Savithaponnusamyblog)  
+- [LinkedIn](www.linkedin.com/in/savitha-ponnusamy-3435491a1)  
+- [Email](savitha.ponnusamy@outlook.com) 
 
 ---
 
