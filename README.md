@@ -16,5 +16,5 @@ I use it to document my research, experiments, and thoughts on the energy transi
 ---
 
 ## 🔗 Navigation
-- [About Me](about.md)  
+- [About Me](About me.md)  
 - [Back to Repository](https://github.com/Savithaponusamyblog/Energy_Transition)  
