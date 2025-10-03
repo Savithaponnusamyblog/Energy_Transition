@@ -5,7 +5,7 @@ Welcome! This is my personal research blog where I share short projects, insight
 ---
 
 ## 📑 Latest Posts
-- [Energy Transition](Energytransition.md) – An overview of the global shift from fossil fuels to carbon-neutral and zero-carbon fuels.  
+- [Energy Transition](Energy_transition.md) – An overview of the global shift from fossil fuels to carbon-neutral and zero-carbon fuels.  
 
 ---
 
