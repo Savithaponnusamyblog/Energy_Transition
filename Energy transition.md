@@ -1,4 +1,4 @@
-﻿# Energy transition: How did it all start?
+ # Energy transition: How did it all start?
 
 As we all have heard, *'The energy transition'* is a term that has been circling around everywhere nowadays.  You might have an idea about the reason for energy transition and the issues with climate change. But the actual symbolisation can be quite deeper than the generic front we have.
 
@@ -8,7 +8,7 @@ The governmental policies subsidise fuels like kerosene or butane, aiming to inc
 
 It is suggested that improving transport and storage facilities, along with supply and financial support, would be helpful for the energy transition towards modern fuels.
 
-**The first energy transition[2]**
+**The first energy transition [2]**
 
 The foremost energy transition from wood to fossil fuels was driven by the urbanisation of the British in the 1700s. Despite the lack of accessibility in the rural areas, the transition was in full swing in the 19th century, in general, thanks to the Industrial Revolution, which promoted the usage of kinetic energies like water and wind as the main sources of energy.
 
@@ -60,8 +60,7 @@ Due to the seriousness of the climate change, the world leaders have further lim
 
 **Conclusion**
 
-At the end, the interest towards the Climate Change and Global Warming has been simmering in the background for longer. But, the recent EU-Emission Trading System and The Paris agreement forced the importance of the energy transition to light, to protect the overall environment from drastic temperature changes. Following that, The IPCC released a special report on the effects of global warming of above 1.5℃ above the pre-industrial levels which stated that even with the pledges of Paris agreement are supplemented with challenging increases in the scale, the action would need to achieve net zero CO<sub>2 emissions</sub> in less than 15 years. Despite that, the temperatures still required to remain below the 1.5℃ threshold. It reinforces what we already know that the actions towards the climate change or transition to sustainable fuels need to be prioritized to achieve emission reduction by the end of 2030.[7]
-**\
+At the end, the interest towards the Climate Change and Global Warming has been simmering in the background for longer. But, the recent EU-Emission Trading System and The Paris agreement forced the importance of the energy transition to light, to protect the overall environment from drastic temperature changes. Following that, The IPCC released a special report on the effects of global warming of above 1.5℃ above the pre-industrial levels which stated that even with the pledges of Paris agreement are supplemented with challenging increases in the scale, the action would need to achieve net zero CO<sub>2 emissions</sub> in less than 15 years. Despite that, the temperatures still required to remain below the 1.5℃ threshold. It reinforces what we already know that the actions towards the climate change or transition to sustainable fuels need to be prioritized to achieve emission reduction by the end of 2030. [7]
 
 ## References
 [1]	B. D. Solomon and K. Krishna, ‘The coming sustainable energy transition: History, strategies, and outlook’, *Energy Policy*, vol. 39, no. 11, pp. 7422–7431, 2011, doi: https://doi.org/10.1016/j.enpol.2011.09.009.
@@ -78,4 +77,5 @@ At the end, the interest towards the Climate Change and Global Warming has been 
 
 [7]	‘Global Warming of 1.5 degree celsius an IPCC special report’, The Intergovernmental Panel of Climate Change, 2020. [Online]. Available: https://www.ipcc.ch/sr15/
 ##
+[⬅ Back to Home](index.md)
 
