@@ -1,4 +1,4 @@
-# 🌍 Energy Transition Blog  
+# 🌍 Energy Transition  
 
 Welcome! This is my personal research blog where I share short projects, insights, and notes on **energy systems, hydrogen, carbon capture, and climate policy**.  
 
