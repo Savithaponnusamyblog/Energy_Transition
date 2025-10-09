@@ -14,13 +14,14 @@ I think it is underrated struggle that many people face, in the field, as like m
 *Note: These interpretations and reflections in this post are purely subjective, based on my current understanding and readings in the energy transition field. These views are meant to be open for discussion and not to serve as definitive or exhaustive.*
 
 # References:
-[1]	B. Olfe-Kräutlein, K. Armstrong, M. Mutchek, L. Cremonese, and V. Sick, ‘Why Terminology Matters for Successful Rollout of Carbon Dioxide Utilization Technologies’, *Front. Clim.*, vol. 4, p. 830660, May 2022, https://doi: 10.3389/fclim.2022.830660.
+[1]	B. Olfe-Kräutlein, K. Armstrong, M. Mutchek, L. Cremonese, and V. Sick, ‘Why Terminology Matters for Successful Rollout of Carbon Dioxide Utilization Technologies’, *Front. Clim.*, vol. 4, p. 830660, May 2022, https://doi.org/10.3389/fclim.2022.830660.
 
-[2]	E.-L. Ocenic and A. Tanţău, ‘Redefining the Hydrogen “Colours” based on Carbon Dioxide Emissions: A New Evidence-Based Colour Code’, *Proc. Int. Conf. Bus. Excell.*, vol. 17, no. 1, pp. 111–121, July 2023, https://doi: 10.2478/picbe-2023-0013.
+[2]	E.-L. Ocenic and A. Tanţău, ‘Redefining the Hydrogen “Colours” based on Carbon Dioxide Emissions: A New Evidence-Based Colour Code’, *Proc. Int. Conf. Bus. Excell.*, vol. 17, no. 1, pp. 111–121, July 2023, https://doi.org/10.2478/picbe-2023-0013.
 
 [3]	J. Incer-Valverde, A. Korayem, G. Tsatsaronis, and T. Morosuk, ‘“Colors” of hydrogen: Definitions and carbon intensity’, *Energy Convers. Manag.*, vol. 291, p. 117294, 2023, doi: https://doi.org/10.1016/j.enconman.2023.117294.
 
-[4]	J. M. M. Arcos and D. M. F. Santos, ‘The Hydrogen Color Spectrum: Techno-Economic Analysis of the Available Technologies for Hydrogen Production’, *Gases*, vol. 3, no. 1, pp. 25–46, 2023, https://doi: 10.3390/gases3010002.
+[4]	J. M. M. Arcos and D. M. F. Santos, ‘The Hydrogen Color Spectrum: Techno-Economic Analysis of the Available Technologies for Hydrogen Production’, *Gases*, vol. 3, no. 1, pp. 25–46, 2023, https://doi.org/10.3390/gases3010002.
+
 
 
 
