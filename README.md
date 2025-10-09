@@ -6,7 +6,7 @@ Welcome! This is my personal research blog where I share short projects, insight
 
 ## 📑 Latest Posts
 - [Energy Transition](Energy_transition.md) – An overview of the global shift from fossil fuels to carbon-neutral and zero-carbon fuels.
-- (A_5_minute_read-Gaps_and_Misunderstandings_about_modern_terminology_in_energy_transition.md) - My thoughts about the new terms in energy transition field.
+- [A 5 minute read: Gaps and Misunderstandings about modern terminology in energy transition](A_5_minute_read-Gaps_and_Misunderstandings_about_modern_terminology_in_energy_transition.md) - My thoughts about the new terms in energy transition field.
 
 ---
 
