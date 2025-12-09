@@ -20,4 +20,4 @@ In Maritime, the FuelEU maritime regulation creates more interest and encourages
 
 [Source: [https://transport.ec.europa.eu/transport-modes/maritime/decarbonising-maritime-transport-fueleu-maritime_en](https://transport.ec.europa.eu/transport-modes/maritime/decarbonising-maritime-transport-fueleu-maritime_en) ]
 
-As we are reaching the end of 2025, it is expected to have more improvements from all the adaptions from the past years and I am enthusiastic for the reports of 2025 on the renewables and sustainable fuels.
+As we are reaching the end of 2025, it is expected to have more improvements from all the adaptions from the past years and I am highly enthusiastic for the upcoming reports of 2025 on the renewables and sustainable fuels, and how the trend have been grown.
