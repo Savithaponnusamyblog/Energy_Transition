@@ -1,0 +1,23 @@
+# Current advancements in the Sustainable fuel market
+
+As we know that the sustainable fuels such as Hydrogen, natural gas, biofuels are all valuable in improving the energy security by broadening the spectrum of the availability of the fuels. By taking proper actions and implementing suitable governmental policies, it is expected that it could reach even a greater economic market, in the near future. As the IEA has published in their latest report named “Delivering Sustainable Fuels- Pathways to 2035”, it is evident that half of the global fuel demand had been covered by the sustainable fuel policies by 2024.
+
+In the comparison chart of the advanced economies and the developing countries fuel demand, there is still room for improvement for the developing countries, in order to increase the sustainable fuel demands. In the report, there were different case studies carried out to understand the various perspectives of the sustainable fuels among the countries, such as expanding the ethanol use in Brazil, commercialising renewable diesel in the EU and introduction of biomethane in the US transport sector and the hydrogen usage for steel production in Sweden.
+
+Some of the major sources for most of the green fuels are liquid or gaseous biofuels and hydrogen, since most of the compounds of the fuels are made from carbon and hydrogen bonds. So far, The Biogas and biofuels especially biomethane, vegetable oil, bio-LNG, and green and blue hydrogen are in the highest TRL levels which implies that they are already in the commercial level, meanwhile, Fisher-tropsh methane-to-jet fuel and the hydrogen from sea-water electrolysis are still in the TRL 5, depending on the process.
+
+Speaking of raw materials, it is important to address the CO₂ availability for the production of all these fuels. The sustainable way is to consider the Carbon Capture, Utilisation and Storage. In CCUS, the Direct Air Capture is highly available, for different location deployments on a cost-effective basis. Another alternative could be the CO₂ from the biogenic resources from the different plants. But one of the major challenge the industry facing currently is, the cost of production and the requirement for the huge land mass for the storage. Most of the CO₂ has been utilised for the Enhanced Oil Recovery (EOR) for large-scale oil production.
+
+Other fuels such as ethanol and biodiesel are slightly less expensive than gasoline. Fuels like Hydrotreated Vegetable Oil (HVO) or Hydro processed esters and fatty acids (HEFA) are more capital intensive, but could be managed through the carbon credits, in this case. It is also noticed with several industries where the company or the plant that emits very less, can benefit from the surplus caps, which also makes them eligible for some financial rewards through the Net Zero fund.
+
+[Source: IEA (2025), Delivering Sustainable Fuels, IEA, Paris https://www.iea.org/reports/delivering-sustainable-fuels, Licence: CC BY 4.0]
+
+As one of the major emissive industry, the aviation sector had also been putting efforts on the Research and Development of different sustainable aviation fuels, which is expectd to reduce the carbon emissions by 80%. According to IATA, the first test flight with the Biojet fuel had been successfully executed by Virigin Atlantic, in 2008. Following that, there were several steps taken toward the sustainable aviation, which reached 1 Mt production of certified sustainable fuels, represents 0.3% of the global usage, with 11 certified SAF pathways. 
+
+[Source: [https://www.iata.org/en/programs/sustainability/sustainable-aviation-fuels/](https://www.iata.org/en/programs/sustainability/sustainable-aviation-fuels/) ]
+
+In Maritime, the FuelEU maritime regulation creates more interest and encourages the use of the low-carbon fuels for ships. In the European Union, the regulation had been fully adapted in January, 2025, in all the memeber countries. The  agreement with the EEA had been delayed due to the process adaption delays in Iceland and Norway, which will be considered as the Third-country ports until the incorporation is officially adapted.
+
+[Source: [https://transport.ec.europa.eu/transport-modes/maritime/decarbonising-maritime-transport-fueleu-maritime_en](https://transport.ec.europa.eu/transport-modes/maritime/decarbonising-maritime-transport-fueleu-maritime_en) ]
+
+As we are reaching the end of 2025, it is expected to have more improvements from all the adaptions from the past years and I am enthusiastic for the reports of 2025 on the renewables and sustainable fuels.
