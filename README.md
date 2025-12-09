@@ -7,7 +7,7 @@ Welcome! This is my personal research blog where I share short projects, insight
 ## 📑 Latest Posts
 - [Energy Transition](Energy_transition.md) – An overview of the global shift from fossil fuels to carbon-neutral and zero-carbon fuels.
 - [A 5 minute read: Gaps and Misunderstandings about modern terminology in energy transition](A_5_minute_read-Gaps_and_Misunderstandings_about_modern_terminology_in_energy_transition.md) - My thoughts about the new terms in energy transition field.
-- [Current Advancements in the Sustainable Fuel Market]([https://github.com/Savithaponnusamyblog/Energy_Transition/commit/4939d511ca71fa30aae927f72ce49b7ce5741914](https://github.com/Savithaponnusamyblog/Energy_Transition/blob/main/Current%20advancements%20in%20the%20Sustainable%20fuel%20marke%202c422a8cfe43808dbac7c1b1812222bd.md))- An update on how the market had been implementing different strategies for a low-carbon future. 
+- [Current Advancements in the Sustainable Fuel Market](https://github.com/Savithaponnusamyblog/Energy_Transition/blob/main/Current%20advancements%20in%20the%20Sustainable%20fuel%20marke%202c422a8cfe43808dbac7c1b1812222bd.md)- An update on how the market had been implementing different strategies for a low-carbon future. 
 ---
 
 ## 📌 About This Blog
